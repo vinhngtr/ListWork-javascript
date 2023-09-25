@@ -11,3 +11,6 @@
 - Deploy in Vercel
 
 ### DEMO Project
+- Giao diện của list trước khi thêm item:
+
+<img src = "images/demo.PNG" width ="800" height = "400" />
